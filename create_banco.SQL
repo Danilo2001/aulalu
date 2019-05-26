@@ -23,5 +23,6 @@ values('Danilo','Rua A','01011-000','Bairro A','São Paulo','SP','12345678');
 insert into CLIENTE(NOME,ENDERECO,CEP,BAIRRO,CIDADE,UF,TELEFONE)
 values('Danilo','Rua B','01011-333','Bairro B','São Paulo','SP','87654321');
 
-
+insert into CLIENTE(NOME,ENDERECO,CEP,BAIRRO,CIDADE,UF,TELEFONE)
+values('Danilo','Rua BDDJD','01011-333','Bairro 892','São MCDNKPaulo','SPXMJ','87654321MDM');
 
